@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34008'
     url: http://www.gutenberg.org/2009/agents/34008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29584#Die-PiraterieBeitr-ge-zum-internationalen-Seerecht
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-08-03'
 gutenberg_type: Text
